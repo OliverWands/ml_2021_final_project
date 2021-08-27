@@ -1,0 +1,6 @@
+http://neuralnetworksanddeeplearning.com/chap2.html#the_backpropagation_algorithm
+https://en.wikipedia.org/wiki/Automatic_differentiation
+https://en.wikipedia.org/wiki/Backpropagation
+https://en.wikipedia.org/wiki/Artificial_neural_network#Hyperparameter
+https://arxiv.org/pdf/1610.01178.pdf
+https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf
